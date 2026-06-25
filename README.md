@@ -2,9 +2,7 @@
 
 A tiered fantasy-draft pool for the FIFA World Cup 2026 that you can stand up for your own group of friends or coworkers. Each player drafts **one team from each of six odds-based tiers**, then scores points as those teams win, draw, and advance through the knockouts.
 
-<!-- Replace with a real screenshot or GIF of your pool — it's the single biggest driver of people trying it.
-     Add the image to a docs/ folder and point to it here, e.g. ![Screenshot](docs/screenshot.png) -->
-<p align="center"><em>📸 Add a screenshot of the leaderboard or draft screen here.</em></p>
+<p align="center"><img src="docs/screenshot.png" alt="The draft screen: six odds-based tiers of teams and your ticket" width="800"></p>
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fashokechakrabarti%2Fworld-cup-pool&env=DATABASE_URL,FOOTBALL_DATA_TOKEN,ANTHROPIC_API_KEY,ODDS_API_KEY,POOL_VENMO_HANDLE&envDescription=Only%20DATABASE_URL%20is%20required%3B%20the%20rest%20are%20optional&envLink=https%3A%2F%2Fgithub.com%2Fashokechakrabarti%2Fworld-cup-pool%23environment-variables)
 
